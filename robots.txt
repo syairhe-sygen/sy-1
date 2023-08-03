@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syairhe-sygen.github.io/sy-1/sitemap.xml
